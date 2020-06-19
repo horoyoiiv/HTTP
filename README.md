@@ -4,6 +4,12 @@
 * ASCII로 인코딩된다.  
 * Case insensitive 하다.  
 
+  
+## [2. 응답 상태 코드](https://github.com/horoyoiiv/HTTP/blob/master/status/code.md)  
+
+* 307 Temporary Redirect  
+
+
 
 # HTTP Message  
 
